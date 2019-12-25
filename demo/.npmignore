@@ -1,0 +1,5 @@
+lib
+src
+node_modules
+tsconfig.json
+tsconfig.publish.json
